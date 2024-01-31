@@ -2,6 +2,7 @@
 [9:04 AM] Jason Harman
 Charles Rosse or Dean, the RemoteApp RemoteAssistance has been added to our dev-coavd-ra-pool and workspace etc. via web portal. Could we get this expressed and deployed to prd? Thanks!
 
+H3:dev-coavd-RemoteAssistance-ag/RemoteAssistance
 
 workspace
 dev-coavd-ra-pool
@@ -21,4 +22,15 @@ Inputs for New app deployment
 *** Step 2
 Inputs for New App Deployment
 
+  1. Icon path   : C:\Windows\System32\msra.exe
+  2. Icon index  :  0
+
 ![image](https://github.com/kingmack199/website_research/assets/85894437/7ddb392a-5c51-4583-8474-859e38b4bdbe)
+
+*** Step 3
+
+
+
+
+
+end
