@@ -5,3 +5,7 @@ Charles Rosse or Dean, the RemoteApp RemoteAssistance has been added to our dev-
 
 workspace
 dev-coavd-ra-pool
+
+
+![image](https://github.com/kingmack199/website_research/assets/85894437/807552c8-f3b1-4989-98ba-eab31efdbabe)
+
