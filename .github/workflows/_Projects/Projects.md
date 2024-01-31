@@ -6,6 +6,7 @@ Charles Rosse or Dean, the RemoteApp RemoteAssistance has been added to our dev-
 workspace
 dev-coavd-ra-pool
 
+*** Step 1
 Inputs for New app deployment
 
   1. C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
@@ -15,6 +16,9 @@ Inputs for New app deployment
   5. Yes
   6. -File "C:\Program Files\AVD\Scripts\AVD Shadowing.ps1"
 
-
 ![image](https://github.com/kingmack199/website_research/assets/85894437/807552c8-f3b1-4989-98ba-eab31efdbabe)
 
+*** Step 2
+Inputs for New App Deployment
+
+![image](https://github.com/kingmack199/website_research/assets/85894437/7ddb392a-5c51-4583-8474-859e38b4bdbe)
