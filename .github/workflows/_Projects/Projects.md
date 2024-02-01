@@ -21,7 +21,7 @@ Inputs for New app deployment
 
 Add to vs code
 
-C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe
+"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
 
 *** Step 2
 Inputs for New App Deployment
