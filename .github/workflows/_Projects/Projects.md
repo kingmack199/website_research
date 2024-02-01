@@ -34,6 +34,7 @@ Inputs for New App Deployment
 ### Step 4 
 
 Check the Assignments display name
+![image](https://github.com/kingmack199/website_research/assets/85894437/1add164d-7599-4f11-8b78-98f73a8abc4e)
 
 
 
