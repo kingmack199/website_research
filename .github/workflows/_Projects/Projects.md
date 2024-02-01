@@ -19,6 +19,10 @@ Inputs for New app deployment
 
 ![image](https://github.com/kingmack199/website_research/assets/85894437/807552c8-f3b1-4989-98ba-eab31efdbabe)
 
+Add to vs code
+
+C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe
+
 *** Step 2
 Inputs for New App Deployment
 
